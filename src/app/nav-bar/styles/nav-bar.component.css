@@ -1,0 +1,75 @@
+/*
+    Extras... FONTS ICONS, ETC
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+/*
+    WORLD!
+*/
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*
+    END-WORLD
+*/
+
+
+/*
+    nav-bar.component.html
+*/
+
+.navbar {
+  position: absolute;
+  background-color: #FF9800;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 5%;
+}
+
+#develop {
+  position: absolute;
+  color: black;
+  font-size: 25px;
+  top: 20%;
+  left: 5%;
+}
+.name {
+    position: relative;
+    color: black;
+    top: -5%;
+    left: 10%;
+    width: 12.5%;
+}
+.about {
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  top: 28%;
+  left: 25%;
+  border-bottom: 2px solid black;
+}
+
+.contact {
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  top: 28%;
+  left: 30%;
+  border-bottom: 2px solid black;
+}
+
+.about:hover {
+    border: none;
+}
+.contact:hover {
+    border: none;
+}
+
+/*
+    </ nav-bar.component.html
+*/
