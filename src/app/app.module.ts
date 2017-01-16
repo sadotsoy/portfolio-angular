@@ -5,13 +5,16 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { SadotComponent } from './sadot/sadot.component';
+import { LeftBarComponent } from './left-bar/left-bar.component';
 import { BodyComponent } from './body/body.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
-    BodyComponent,
+    SadotComponent,
+    LeftBarComponent,
     BodyComponent
   ],
   imports: [

@@ -1,0 +1,82 @@
+/*
+    Extras... FONTS ICONS, ETC
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+/*
+    WORLD!
+*/
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*
+    END-WORLD
+*/
+
+
+/*
+    left-bar.component.html
+*/
+
+.left-bar {
+  position: absolute;
+  top: 5%;
+  left: 0%;
+  height: 95%;
+  width: 10%;
+  background-color: #F57C00;
+  border-top: 2px solid black;
+  border-right: 5px solid black;
+}
+
+.header {
+  position: absolute;
+  top: 0%;
+  left: 23%;
+  border-bottom: 2px solid black;
+}
+
+.github {
+  position: absolute;
+  top: 10%;
+  left: 33%;
+  font-size: 60px;
+  text-decoration: none;
+  color: black;
+}
+
+.github:hover {
+  color: #FFAB40;
+}
+
+.facebook {
+  position: absolute;
+  top: 22%;
+  left: 35%;
+  font-size: 60px;
+  text-decoration: none;
+  color: black;
+}
+
+.facebook:hover {
+  color: #FFAB40;
+}
+
+.mail{
+    position: absolute;
+    top: 34%;
+    left: 30%;
+    font-size: 60px;
+    text-decoration: none;
+    color: black;
+}
+.mail:hover {
+    color: #FFAB40;
+}
+/*
+    </ left-bar.component.html
+*/
