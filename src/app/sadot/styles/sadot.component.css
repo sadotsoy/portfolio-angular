@@ -20,6 +20,31 @@ body {
   height: 95%;
 }
 
- /*
- 
+
+/*
+    sadot.component.html
+ */
+
+    .header {
+        position: absolute;
+        left: 20%;
+        top: 10%;
+        font-size: 55px;
+    }
+    .bod h3 {
+        position: absolute;
+        left: 10%;
+        top: 15%;
+        font-size: 40px;
+    }
+
+    .bod p {
+        position: absolute;
+        left: 13%;
+        top: 24%;
+        font-size: 36px;
+    }
+
+/*
+    </ sadot.component.html
  */
