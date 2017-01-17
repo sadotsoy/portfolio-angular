@@ -9,6 +9,6 @@ This project is made with [**Angular-CLI**](https://cli.angular.io/), make sure 
 
 ## What I've used:
 
-1. For the icons, [FontAwesome](http://fontawesome.io/ target="_blank").
-2. For the ipsum text, [Hipster Ipsum](https://hipsum.co/).
+1. For the icons, [FontAwesome](http://fontawesome.io/).
+2. For the ipsum text, [Hipster Ipsum](https://hipsum.co/){:target="_blank"}.
 3. Font: ['Source Sans Pro'](https://fonts.googleapis.com/css?family=Source+Sans+Pro), from [Google Fonts](https://fonts.google.com/)
