@@ -40,10 +40,14 @@
 }
 .name {
     position: relative;
+    text-decoration: none;
     color: black;
-    top: -5%;
+    top: 28%;
     left: 10%;
     width: 12.5%;
+}
+.name:hover {
+    border-bottom: 2px solid black;
 }
 .about {
   position: absolute;

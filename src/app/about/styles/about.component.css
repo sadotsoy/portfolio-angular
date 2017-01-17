@@ -1,0 +1,67 @@
+/*
+    Extras... FONTS ICONS, ETC
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+/*
+    WORLD!
+*/
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  position: absolute;
+  top: 4.2%;
+  left: 10%;
+  width: 89.6%;
+  height: 95%;
+}
+/*
+    END-WORLD
+*/
+
+
+/*
+    about.component.html
+*/
+
+.header {
+    position: relative;
+    top: 7%;
+    left: 3%;
+    width: 20%;
+    font-size: 60px;
+}
+.header span {
+    position: relative;
+    left: 1.5%;
+}
+.photo {
+    position: absolute;
+    left: 15%;
+    top: 25%;
+    width: 250px;
+    height: 250px;
+    border-radius: 6px;
+}
+
+.about {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    font-size: 20px;
+    width: 50%;
+}
+.about2 {
+    position: absolute;
+    margin-top: 15%;
+    left: 35%;
+    font-size: 20px;
+    width: 50%;
+}
+/*
+    </ about.component.html
+*/
