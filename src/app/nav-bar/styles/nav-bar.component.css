@@ -45,9 +45,10 @@
     top: 28%;
     left: 10%;
     width: 12.5%;
+    border-bottom: 2px solid black;
 }
 .name:hover {
-    border-bottom: 2px solid black;
+    border: none;
 }
 .about {
   position: absolute;
