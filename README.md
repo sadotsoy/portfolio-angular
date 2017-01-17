@@ -6,3 +6,9 @@ This project is made with [**Angular-CLI**](https://cli.angular.io/), make sure 
 > After clone use npm install to download all the node packages.
 >> Then **use ng** serve to build the project. 
 >> The server runs in **http://localhost:4200**
+
+## What I've used:
+
+1. For the icons, [FontAwesome](http://fontawesome.io/ target="_blank").
+2. For the ipsum text, [Hipster Ipsum](https://hipsum.co/).
+3. Font: ['Source Sans Pro'](https://fonts.googleapis.com/css?family=Source+Sans+Pro), from [Google Fonts](https://fonts.google.com/)
