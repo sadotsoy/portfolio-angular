@@ -1,0 +1,51 @@
+/*
+    Extras... FONTS ICONS, ETC
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+/*
+    WORLD!
+*/
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  position: absolute;
+  top: 4.2%;
+  left: 10%;
+  width: 89.6%;
+  height: 95%;
+}
+
+
+/*
+    END-WORLD
+*/
+
+
+/*
+    contact.component.html
+*/
+
+    .header {
+        position: absolute;
+        left: 40%;
+        top: 5%;
+        font-size: 55px;
+
+    }
+
+    p {
+        position: absolute;
+        left: 30%;
+        top: 20%;
+        width: 45%;
+        font-size: 35px;
+    }
+
+/*
+    end contact.component.html
+*/
