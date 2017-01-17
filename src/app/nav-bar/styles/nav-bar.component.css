@@ -38,6 +38,9 @@
   top: 20%;
   left: 5%;
 }
+#develop:hover {
+    transform: rotate(90deg);
+}
 .name {
     position: relative;
     text-decoration: none;
