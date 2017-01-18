@@ -78,6 +78,12 @@
 .mail:hover {
     color: #FFAB40;
 }
+
+.angul {
+  position: absolute;
+  top: 95%;
+  left: 40%;
+}
 /*
     </ left-bar.component.html
 */
