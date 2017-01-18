@@ -29,6 +29,9 @@
   height: 95%;
   width: 10%;
   background-color: #F57C00;
+  border-top: 3px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .header {
