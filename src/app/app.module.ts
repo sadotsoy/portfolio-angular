@@ -30,7 +30,7 @@ import { SadotComponent } from './sadot/sadot.component';
         component: SadotComponent
       }, {
         path: '',
-        redirectTo: 'sadot',
+        redirectTo: 'about',
         pathMatch: 'full'
       }
     ])
