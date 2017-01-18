@@ -29,6 +29,16 @@
   left: 0%;
   width: 100%;
   height: 5%;
+  border-left: 2px solid black;
+}
+
+.noth {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 95%;
+  width: 9.8999%;
+  border-top: 3px solid black;
 }
 
 #develop {
@@ -38,21 +48,25 @@
   top: 20%;
   left: 5%;
 }
+
 #develop:hover {
-    transform: rotate(90deg);
+  transform: rotate(90deg);
 }
+
 .name {
-    position: relative;
-    text-decoration: none;
-    color: black;
-    top: 28%;
-    left: 10%;
-    width: 12.5%;
-    border-bottom: 2px solid black;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  top: 28%;
+  left: 10%;
+  width: 12.5%;
+  border-bottom: 2px solid black;
 }
+
 .name:hover {
-    border: none;
+  border: none;
 }
+
 .about {
   position: absolute;
   text-decoration: none;
@@ -72,11 +86,13 @@
 }
 
 .about:hover {
-    border: none;
+  border: none;
 }
+
 .contact:hover {
-    border: none;
+  border: none;
 }
+
 
 /*
     </ nav-bar.component.html
