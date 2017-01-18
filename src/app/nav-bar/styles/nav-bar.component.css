@@ -13,6 +13,7 @@
 }
 
 
+
 /*
     END-WORLD
 */
@@ -38,7 +39,7 @@
   left: 0;
   height: 95%;
   width: 9.8999%;
-  border-top: 3px solid black;
+  border-top: 2px solid black;
 }
 
 #develop {
@@ -60,6 +61,7 @@
   top: 28%;
   left: 10%;
   width: 12.5%;
+  margin-left: 2%;
   border-bottom: 2px solid black;
 }
 
@@ -73,6 +75,7 @@
   color: black;
   top: 28%;
   left: 25%;
+  margin-left: 10%;
   border-bottom: 2px solid black;
 }
 
