@@ -1,6 +1,6 @@
-# Portafolio in Angular
+# Portfolio in Angular
 
-This is my protafolio created with angular2, just for train and fun!
+This is my portfolio created with angular2, just for train and fun!
 
 This project was made with [**Angular-CLI**](https://cli.angular.io/), make sure you have [**Angular-CLI**](https://cli.angular.io/) installed,
 > After clone use npm install to download all the node packages.
